@@ -169,7 +169,7 @@ body{
 }
 
 .rodape__texto__texto{
-    font-size: 14px;
+    font-size: 12px;
     margin: 0 15em 5em 15em;
     color: var(--cinza-secundario);
 }
